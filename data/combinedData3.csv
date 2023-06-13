@@ -1,0 +1,195 @@
+country,hdi,democracy_score,government,happiness,country_id,country_code_2,country_code,current_amount
+Afghanistan,0.465,2.55,Authoritarian,3.36,4,AF,AFG,201570000
+Albania,0.733,5.91,Hybrid regime,4.655,8,AL,ALB,1190000
+Algeria,0.736,3.56,Authoritarian,6.355,12,DZ,DZA,1380000
+Andorra,0.845,NA,NA,NA,20,AD,AND,0
+Angola,0.532,3.4,Authoritarian,3.866,24,AO,AGO,8830000
+Antigua and Barbuda,0.783,NA,NA,NA,28,AG,ATG,2550000
+Argentina,0.836,6.96,Flawed democracy,6.65,32,AR,ARG,7040000
+Armenia,0.733,3.88,Authoritarian,4.36,51,AM,ARM,6170000
+Australia,0.935,9.01,Full democracy,7.313,36,AU,AUS,0
+Austria,0.885,8.41,Full democracy,7.119,40,AT,AUT,0
+Azerbaijan,0.751,2.65,Authoritarian,5.291,31,AZ,AZE,2630000
+Bahamas,0.79,NA,NA,NA,44,BS,BHS,380000
+Bahrain,0.824,2.79,Authoritarian,6.218,48,BH,BHR,0
+Bangladesh,0.57,5.73,Hybrid regime,4.643,50,BD,BGD,193780000
+Barbados,0.785,NA,NA,NA,52,BB,BRB,990000
+Belarus,0.798,3.54,Authoritarian,5.802,112,BY,BLR,2050000
+Belgium,0.89,7.77,Flawed democracy,6.929,56,BE,BEL,0
+Belize,0.715,NA,NA,5.956,84,BZ,BLZ,5390000
+Benin,0.48,5.67,Hybrid regime,3.484,204,BJ,BEN,41090000
+Bhutan,0.605,4.93,Hybrid regime,5.196,64,BT,BTN,9260000
+Bolivia,0.662,5.63,Hybrid regime,5.822,68,BO,BOL,15250000
+Bosnia and Herzegovina,0.733,4.87,Hybrid regime,5.163,70,BA,BIH,3250000
+Botswana,0.698,7.87,Flawed democracy,3.974,72,BW,BWA,1380000
+Brazil,0.755,6.9,Flawed democracy,6.952,76,BR,BRA,3720000
+Brunei Darussalam,0.856,NA,NA,NA,96,BN,BRN,0
+Bulgaria,0.782,7.01,Flawed democracy,4.217,100,BG,BGR,0
+Burkina Faso,0.402,4.7,Hybrid regime,3.739,854,BF,BFA,93820000
+Burundi,0.4,2.4,Authoritarian,2.905,108,BI,BDI,21980000
+Cabo Verde,0.646,7.94,Flawed democracy,NA,132,NA,CPV,3760000
+Cambodia,0.555,4.27,Hybrid regime,3.907,116,KH,KHM,12330000
+Cameroon,0.512,3.46,Authoritarian,4.513,120,CM,CMR,35400000
+Canada,0.913,9.15,Full democracy,7.404,124,CA,CAN,0
+Central African Republic,0.35,1.61,Authoritarian,NA,140,CF,CAF,34210000
+Chad,0.392,1.5,Authoritarian,3.763,148,TD,TCD,19650000
+Chile,0.832,7.78,Flawed democracy,6.705,152,CL,CHL,3260000
+China,0.727,3.14,Authoritarian,5.245,156,CN,CHN,7590000
+Colombia,0.72,6.67,Flawed democracy,6.481,170,CO,COL,57480000
+Comoros,0.503,3.71,Authoritarian,3.956,174,KM,COM,4670000
+Congo,0.591,2.91,Authoritarian,4.236,178,NA,COG,6520000
+Congo (Democratic Republic of the),0.433,1.93,Authoritarian,4.272,180,CD,COD,0
+Costa Rica,0.766,7.88,Flawed democracy,7.087,188,CR,CRI,16300000
+Cote d'Ivoire,0.462,3.81,Authoritarian,3.916,384,NA,CIV,0
+Croatia,0.818,6.75,Flawed democracy,5.488,191,HR,HRV,0
+Cuba,0.769,3.46,Authoritarian,NA,192,CU,CUB,5870000
+Cyprus,0.85,7.65,Flawed democracy,5.546,196,CY,CYP,0
+Czech Republic,0.87,7.82,Flawed democracy,6.596,203,CZ,CZE,0
+Denmark,0.923,9.2,Full democracy,7.526,208,DK,DNK,0
+Djibouti,0.47,2.83,Authoritarian,NA,262,DJ,DJI,4340000
+Dominica,0.724,NA,NA,NA,212,DM,DMA,11150000
+Dominican Republic,0.715,6.67,Flawed democracy,5.155,214,DO,DOM,1880000
+Ecuador,0.732,5.81,Hybrid regime,5.976,218,EC,ECU,17320000
+Egypt,0.69,3.31,Authoritarian,4.362,818,EG,EGY,24630000
+El Salvador,0.666,6.64,Flawed democracy,6.068,222,SV,SLV,5710000
+Equatorial Guinea,0.587,1.7,Authoritarian,NA,226,GQ,GNQ,620000
+Eritrea,0.391,2.37,Authoritarian,NA,232,ER,ERI,6800000
+Estonia,0.861,7.85,Flawed democracy,5.517,233,EE,EST,0
+Ethiopia,0.442,3.6,Authoritarian,4.508,231,ET,ETH,206550000
+Fiji,0.727,5.64,Hybrid regime,NA,242,FJ,FJI,9410000
+Finland,0.883,9.03,Full democracy,7.413,246,FI,FIN,0
+France,0.888,7.92,Flawed democracy,6.478,250,FR,FRA,0
+Gabon,0.684,3.74,Authoritarian,4.121,266,GA,GAB,720000
+Gambia,0.441,2.91,Authoritarian,NA,270,GM,GMB,7640000
+Georgia,0.754,5.93,Hybrid regime,4.252,268,GE,GEO,2140000
+Germany,0.916,8.63,Full democracy,6.994,276,DE,DEU,0
+Ghana,0.579,6.75,Flawed democracy,4.276,288,GH,GHA,98670000
+Greece,0.865,7.23,Flawed democracy,5.033,300,GR,GRC,0
+Grenada,0.75,NA,NA,NA,308,GD,GRD,12590000
+Guatemala,0.627,5.92,Hybrid regime,6.324,320,GT,GTM,20170000
+Guinea,0.411,3.14,Authoritarian,3.607,324,GN,GIN,23080000
+Guinea-Bissau,0.42,1.98,Authoritarian,NA,624,GW,GNB,6030000
+Guyana,0.636,6.25,Flawed democracy,NA,328,GY,GUY,8850000
+Haiti,0.483,4.02,Hybrid regime,4.028,332,HT,HTI,89880000
+Honduras,0.606,5.92,Hybrid regime,4.871,340,HN,HND,30760000
+Hong Kong,0.91,6.42,Flawed democracy,5.458,344,HK,HKG,0
+Hungary,0.828,6.72,Flawed democracy,5.145,348,HU,HUN,0
+Iceland,0.899,9.5,Full democracy,7.501,352,IS,ISL,0
+India,0.609,7.81,Flawed democracy,4.404,356,IN,IND,58390000
+Indonesia,0.684,6.97,Flawed democracy,5.314,360,ID,IDN,64870000
+Iran,0.766,2.34,Authoritarian,4.813,364,IR,IRN,3250000
+Iraq,0.654,4.08,Hybrid regime,4.575,368,IQ,IRQ,56420000
+Ireland,0.916,9.15,Full democracy,6.907,372,IE,IRL,0
+Israel,0.894,7.85,Flawed democracy,7.267,376,IL,ISR,170000
+Italy,0.873,7.98,Flawed democracy,5.977,380,IT,ITA,0
+Jamaica,0.719,7.39,Flawed democracy,5.51,388,JM,JAM,15980000
+Japan,0.891,7.99,Flawed democracy,5.921,392,JP,JPN,0
+Jordan,0.748,3.96,Authoritarian,5.303,400,JO,JOR,76680000
+Kazakhstan,0.788,3.06,Authoritarian,5.919,398,KZ,KAZ,4010000
+Kenya,0.548,5.33,Hybrid regime,4.356,404,KE,KEN,123140000
+Kiribati,0.59,NA,NA,NA,296,KI,KIR,4740000
+Kosovo,NA,NA,NA,5.401,1071,NA,CS-KM,3980000
+Kuwait,0.816,3.85,Authoritarian,6.239,414,KW,KWT,0
+Kyrgyzstan,0.655,4.93,Hybrid regime,5.185,417,KG,KGZ,7700000
+Laos,0.575,2.37,Authoritarian,4.876,418,NA,LAO,7460000
+Latvia,0.819,7.31,Flawed democracy,5.56,428,LV,LVA,0
+Lebanon,0.769,4.86,Hybrid regime,5.129,422,LB,LBN,59270000
+Lesotho,0.497,6.59,Flawed democracy,NA,426,LS,LSO,9630000
+Liberia,0.43,5.31,Hybrid regime,3.622,430,LR,LBR,13610000
+Libya,0.724,2.25,Authoritarian,5.615,434,LY,LBY,7570000
+Liechtenstein,0.908,NA,NA,NA,438,LI,LIE,0
+Lithuania,0.839,7.47,Flawed democracy,5.813,440,LT,LTU,0
+Luxembourg,0.892,8.81,Full democracy,6.871,442,LU,LUX,0
+Macedonia,0.747,5.23,Hybrid regime,5.121,807,MK,MKD,0
+Madagascar,0.51,5.07,Hybrid regime,3.695,450,MG,MDG,38600000
+Malawi,0.445,5.55,Hybrid regime,4.156,454,MW,MWI,33350000
+Malaysia,0.779,6.54,Flawed democracy,6.005,458,MY,MYS,3040000
+Maldives,0.706,NA,NA,NA,462,MV,MDV,2210000
+Mali,0.419,5.7,Hybrid regime,4.073,466,ML,MLI,111800000
+Malta,0.839,8.39,Full democracy,6.488,470,MT,MLT,0
+Marshall Islands,NA,NA,NA,NA,584,MH,MHL,1080000
+Mauritania,0.506,3.96,Authoritarian,4.201,478,MR,MRT,9700000
+Mauritius,0.777,8.28,Full democracy,5.648,480,MU,MUS,1450000
+Mexico,0.756,6.47,Flawed democracy,6.778,484,MX,MEX,11780000
+Micronesia (Federated States of),0.64,NA,NA,NA,583,NA,FSM,0
+Moldova,0.693,6.01,Flawed democracy,5.897,498,MD,MDA,4830000
+Mongolia,0.727,6.62,Flawed democracy,4.907,496,MN,MNG,10950000
+Montenegro,0.802,5.72,Hybrid regime,5.161,499,ME,MNE,820000
+Morocco,0.628,4.77,Hybrid regime,5.151,504,MA,MAR,10750000
+Mozambique,0.416,4.02,Hybrid regime,NA,508,MZ,MOZ,131300000
+Myanmar,0.536,4.2,Hybrid regime,4.395,104,MM,MMR,46410000
+Namibia,0.628,6.31,Flawed democracy,4.574,516,NA,NAM,2070000
+Nepal,0.548,4.86,Hybrid regime,4.793,524,NP,NPL,41470000
+Netherlands,0.922,8.8,Full democracy,7.339,528,NL,NLD,0
+New Zealand,0.913,9.26,Full democracy,7.334,554,NZ,NZL,0
+Nicaragua,0.631,4.81,Hybrid regime,5.992,558,NI,NIC,18220000
+Niger,0.348,3.96,Authoritarian,3.856,562,NE,NER,53860000
+Nigeria,0.514,4.5,Hybrid regime,4.875,566,NG,NGA,152240000
+North Korea,NA,1.08,Authoritarian,NA,408,KP,PRK,640000
+Norway,0.944,9.93,Full democracy,7.498,578,NO,NOR,0
+Oman,0.793,3.04,Authoritarian,NA,512,OM,OMN,0
+Pakistan,0.538,4.33,Hybrid regime,5.132,586,PK,PAK,127270000
+Palau,0.78,NA,NA,NA,585,PW,PLW,460000
+Palestine,0.677,4.49,Hybrid regime,4.754,275,PS,PSE,0
+Panama,0.78,7.13,Flawed democracy,6.701,591,PA,PAN,2130000
+Papua New Guinea,0.505,6.03,Flawed democracy,NA,598,PG,PNG,7770000
+Paraguay,0.679,6.27,Flawed democracy,5.538,600,PY,PRY,1350000
+Peru,0.734,6.65,Flawed democracy,5.743,604,PE,PER,32850000
+Philippines,0.668,6.94,Flawed democracy,5.279,608,PH,PHL,23420000
+Poland,0.843,6.83,Flawed democracy,5.835,616,PL,POL,0
+Portugal,0.83,7.86,Flawed democracy,5.123,620,PT,PRT,0
+Puerto Rico,NA,NA,NA,7.039,630,PR,PRI,0
+Qatar,0.85,3.18,Authoritarian,6.375,634,QA,QAT,0
+Romania,0.793,6.62,Flawed democracy,5.528,642,RO,ROU,0
+Russia,0.798,3.24,Authoritarian,5.856,643,RU,RUS,0
+Rwanda,0.483,3.07,Authoritarian,3.515,646,RW,RWA,56340000
+Saint Kitts and Nevis,0.752,NA,NA,NA,659,KN,KNA,600000
+Saint Lucia,0.729,NA,NA,NA,662,LC,LCA,7460000
+Saint Vincent and the Grenadines,0.72,NA,NA,NA,670,VC,VCT,15230000
+Samoa,0.702,NA,NA,NA,882,WS,WSM,550000
+Sao Tome and Principe,0.555,NA,NA,NA,678,ST,STP,6900000
+Saudi Arabia,0.837,1.93,Authoritarian,6.379,682,SA,SAU,0
+Senegal,0.466,6.21,Flawed democracy,4.219,686,SN,SEN,95390000
+Serbia,0.771,6.57,Flawed democracy,5.177,688,RS,SRB,1630000
+Seychelles,0.772,NA,NA,NA,690,SC,SYC,220000
+Sierra Leone,0.413,4.55,Hybrid regime,4.635,694,SL,SLE,25650000
+Singapore,0.912,6.38,Flawed democracy,6.739,702,SG,SGP,0
+Slovakia,0.844,7.29,Flawed democracy,6.078,703,SK,SVK,0
+Slovenia,0.88,7.51,Flawed democracy,5.768,705,SI,SVN,0
+Solomon Islands,0.506,NA,NA,NA,90,SB,SLB,4120000
+Somalia,NA,NA,NA,5.44,706,SO,SOM,63510000
+South Africa,0.666,7.41,Flawed democracy,4.459,710,ZA,ZAF,23120000
+South Korea,0.898,7.92,Flawed democracy,5.835,410,NA,KOR,0
+South Sudan,0.467,NA,NA,3.832,728,NA,SSD,137470000
+Spain,0.876,8.3,Full democracy,6.361,724,ES,ESP,0
+Sri Lanka,0.757,6.48,Flawed democracy,4.415,144,LK,LKA,17710000
+Sudan,0.479,2.37,Authoritarian,4.139,729,SD,SDN,182950000
+Suriname,0.714,6.77,Flawed democracy,6.269,740,SUR,NA,2470000
+Swaziland,0.531,3.03,Authoritarian,NA,748,SZ,SWZ,0
+Sweden,0.907,9.39,Full democracy,7.291,752,SE,SWE,0
+Switzerland,0.93,9.09,Full democracy,7.509,756,CH,CHE,0
+Syria,0.594,1.43,Authoritarian,3.069,760,SY,SYR,40920000
+Taiwan,NA,7.79,Flawed democracy,6.379,158,TW,TWN,0
+Tajikistan,0.624,1.89,Authoritarian,4.996,762,TJ,TJK,16120000
+Tanzania,0.521,5.76,Hybrid regime,3.666,834,TZ,TZA,127000000
+Thailand,0.726,4.92,Hybrid regime,6.474,764,TH,THA,3590000
+Timor-Leste,0.595,7.24,Flawed democracy,NA,626,TL,TLS,4890000
+Togo,0.484,3.32,Authoritarian,3.303,768,TG,TGO,13140000
+Tonga,0.717,NA,NA,NA,776,TO,TON,1850000
+Trinidad and Tobago,0.772,7.1,Flawed democracy,6.168,780,TT,TTO,1930000
+Tunisia,0.721,6.4,Flawed democracy,5.045,788,TN,TUN,11790000
+Turkey,0.761,5.04,Hybrid regime,5.389,792,TR,TUR,0
+Turkmenistan,0.688,1.83,Authoritarian,5.658,795,TM,TKM,1280000
+Uganda,0.483,5.26,Hybrid regime,3.739,800,UG,UGA,86180000
+Ukraine,0.747,5.7,Hybrid regime,4.324,804,UA,UKR,172620000
+United Arab Emirates,0.835,2.75,Authoritarian,6.573,784,AE,ARE,0
+United Kingdom,0.907,8.36,Full democracy,6.725,826,GB,GBR,0
+United States,0.915,7.98,Flawed democracy,7.104,840,US,USA,0
+Uruguay,0.793,8.17,Full democracy,6.545,858,UY,URY,70000
+Uzbekistan,0.675,1.95,Authoritarian,5.987,860,UZ,UZB,20410000
+Vanuatu,0.594,NA,NA,NA,548,VU,VUT,2410000
+Venezuela,0.762,4.68,Hybrid regime,6.084,862,VE,VEN,25060000
+Vietnam,0.666,3.38,Authoritarian,5.061,704,VN,VNM,47990000
+Yemen,0.498,2.07,Authoritarian,3.724,887,YE,YEM,94560000
+Zambia,0.586,5.99,Hybrid regime,4.795,894,ZM,ZMB,30030000
+Zimbabwe,0.509,3.05,Authoritarian,4.193,716,ZW,ZWE,40840000
