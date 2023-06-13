@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
+    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/topojson.v2.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3-color.v1.min.js"></script>
+    <link rel='stylesheet prefetch' type="text/css" href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+    <style>
+        body {
+            background-color: azure;
+        }
+
+        svg.map {
+            border: 0px solid steelblue;
+            background-color: white;
+            padding: 0px;
+            margin-left: -8px;
+            overflow:hidden;
+        }
+
+        svg.miniGraph {
+          padding:0px;
+          margin:0px;
+          margin-left:-8px;
+        }
+
+        h1 {
+            padding: 0px;
+            margin: 0px;
+            font-size:54px;
+            font-family:"Cabin";
+        }
+
+        h3{
+          font-family:"Cabin";
+        }
+
+        form{
+            font-family:"Cabin";
+        }
+
+        .title {
+            background-color: #063C71;
+            width: 100vw;
+            padding-top: 25px;
+            padding-bottom: 15px;
+            margin-top: -8px;
+            margin-left: -8px;
+            color: white;
+        }
+        g.axis text {
+          font-size:8px;
+        }
+
+        g.graph text {
+            font-size:12px;
+        }
+
+        g.countryChart text {
+            font-size:2em;
+        }
+
+        input,button {
+            color:black;
+        }
+
+        .compare {
+            height:100vh;
+            width:45vw;
+            text-align:center;
+        }
+        
+        .autocomplete-suggestions { border: 1px solid #999; background: white; cursor: default; overflow: auto; }
+        .autocomplete-suggestion { padding: 10px 5px; white-space: nowrap; overflow: hidden; }
+        .autocomplete-selected { background: silver; }
+        .autocomplete-suggestions strong { font-weight: normal;}  
+        .flowline {
+          stroke-dasharray: 15, 15;
+          animation: flow 1s linear infinite;
+          -webkit-animation: flow 1s linear infinite;
+        }
+
+        @keyframes flow {
+          from {
+            stroke-dashoffset: 30;
+          }
+
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+
+        @-webkit-keyframes flow {
+          from {
+            stroke-dashoffset: 30;
+          }
+
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <div class='title'>
+        <h1 style='text-align: center;'>Recipients of Canada Foreign Aid</h1>
+        <h3 style='text-align: center;'>Interactive Data Visualization by Tue, Oz, Mirta and Maham</h3>
+        <hr>
+        <div class='row'>
+            <div class='col-md-6 col-md-offset-1'>
+            <p><strong>Instructions: Click To Zoom, Hover for Details, Select Metric to Display Below</strong></p>
+            <form id='metricForm'>
+                <input id="aidbtn" type="radio" name="metric" value="aid" checked> Foreign Aid
+                <input id="democracybtn" type="radio" name="metric" value="democracy"> Democracy Index
+                <input id="happinessbtn" type="radio" name="metric" value="happiness"> Happiness Index
+                <input id="hdibtn" type="radio" name="metric" value="hdi"> Human Development Index
+                <input id="govtbtn" type="radio" name="metric" value="govt"> Government Type
+            </form> 
+            </div>
+            <div class='col-md-5'>
+                <p><strong>Filter Foreign Aid Recipients by Amount (CAD):</strong></p>
+                <input id="aidFilter" type="text" placeholder=" Lower Bound"><input id="aidFilter2" type="text" placeholder=" Upper Bound"><button id='setFilter'>Set Filter</button>
+            </div>
+        </div>
+    </div>
+    <div id='map'></div>
+    <div id="tooltip" style='position:absolute;'></div>
+    <div class='title' style='text-align: center;'>
+        <h3 style='text-align: center;'>Country Comparison Tool</h3>
+        <div class='row'>
+            <div class='col-md-2 col-md-offset-3'> <input id="leftCountry" type="text" placeholder=" Country 1"></div>
+            <div class='col-md-2'><button id='compareBtn'> Compare Countries </button></div>
+            <div class='col-md-2'><input id="rightCountry" type="text" placeholder=" Country 2"></div>
+            <div class='col-md-3'></div>
+        </div>
+    </div>
+    <div class='row'>
+        <div id='leftCompare' class='col-md-6 compare text-center'></div>
+        <div id='rightCompare' class='col-md-6 compare text-center'></div>
+    </div>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+    <script src='js/jquery.autocomplete.min.js'></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src='js/scales.js'></script>
+    <script src='js/scripts.js'></script>
+    <script src='js/controller.js'></script>
+    <script src='js/compare.js'></script>
+</body>
+</html>
