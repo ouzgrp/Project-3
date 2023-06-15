@@ -1,5 +1,12 @@
 # Project 3
- Canada's Financial Aid Visualizer
+
+Team members: Oz, Tue, Mirta and Maham
+
+Project Topic : Canada's Financial Aid Visualizer
+
+This project is an addition to the project 1 with a new data regarding the Canada's Financial Aid. The first project was focused on world happinesss index, while project 3 is showing the amount of financial aid that Canada sent to other countries in the world. Furthermore, this project 3 compares the financial aid amount with hapiness index, democracy index, human development index and type of goverment (authoritarian, hybrid, flawed democracy and full democracy). 
+
+
 
 Features:
 
@@ -7,14 +14,9 @@ Features:
 -filter lines showing flow of money by amount
 -compare government type, aid, HDI, etc of 2 countries, with autocomplete
 -tooltips showing chart of data about each country when hovering over on map
-
-
-To do list:
-
--add tooltips to countries
--add option to filter out which arcs to display by aid threshold
--add selector to change which variable is shown on the choropleth
--add comparison tool to compare data for two different countries
+-option to filter out which arcs to display by aid threshold
+-selector to change which variable is shown on the choropleth
+-comparison tool to compare data for two different countries
 
 ======================================
 
