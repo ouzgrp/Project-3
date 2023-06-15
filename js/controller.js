@@ -60,7 +60,7 @@ govtBtn.on("click", function(){
 	updateMap(govtScaleColor);
 });
 
-/*this function is adapted from my game of thrones visualization, originally written by a member of my group*/
+
 var click = "clicked";
 function zoom(d) {
     if (d.properties.name==="") {
@@ -196,7 +196,6 @@ function tooltipAid(d){
     .style("opacity", 0.9); 
 }
 
-/*tooltipMove is borrowed from my game of thrones visualization, originally written by a member of my group*/
 function tooltipMove (d){
     if(d.properties==undefined||d.properties.name==undefined){
         return tooltip.style("top", (event.pageY)+"px").style("left", (event.pageX)+10+"px")
