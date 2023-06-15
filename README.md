@@ -43,6 +43,7 @@ Features:
 -selector to change which variable is shown on the choropleth
 -comparison tool to compare data for two different countries
 
+The overall conclusion from the data and the interactive map is that happiness and human development index is higher in the countries with the higher democracy index and with a government type that is flawed or full democracy. Furthermore, the financial aid sent from Canada is higher in the countries with lower democracy index and where the government type tend to lean more towars authoritarian leadership style. Those countries also have lower happiness and human development index. 
 ======================================
 
 Data Sources:
